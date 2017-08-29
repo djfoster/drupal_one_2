@@ -53,6 +53,8 @@ class MacExamplesForm extends FormBase {
     $form['email_1'] = array(
       '#type' => 'email',
       '#title' => 'Ingresa correo electrónico',
+      '#min' => -20
+      '#max' => 20
     );
     
     $form['numero_1'] = array(
