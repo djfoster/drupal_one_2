@@ -23,7 +23,7 @@ background: #FFF;
 background: rgba(115, 19, 230, 0.65);
 padding-top: 15%;
 text-align: right;
-text-shadow: 2px 2px 6px #009900;
+text-shadow: 2px 2px 6px #000;
 }
 /* HEADER ORDER MOD */
 #block-mac-branding {
@@ -63,7 +63,7 @@ border: none;
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-{{ 'Agustin Rojas Silva'|upper }}
+{{ 'Raul Salvador Vegara'|upper }}
 </div>
 </div>
 </div>
